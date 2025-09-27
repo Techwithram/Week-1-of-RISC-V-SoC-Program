@@ -61,5 +61,5 @@ Each **day folder** contains:
 ---
 
 📌 **Part of:** [RISC-V SoC Tapeout Program](https://github.com/Techwithram/RISC-V-SOC-Tapeout-Program)  
-📌 **Maintainer:** [Nidesh Kanna R](https://github.com/Techwithram)  
+📌 **Maintainer:** [Tatikonda Ramakrishna](https://github.com/Techwithram)  
 
