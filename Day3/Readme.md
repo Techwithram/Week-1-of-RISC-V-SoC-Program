@@ -809,5 +809,5 @@ Identify why some RTL constructs work differently after synthesis and how to avo
 
 These topics are essential for timing analysis, RTL verification, and ensuring your design behaves correctly after synthesis.
 
-👉 All Day 4 examples and labs will be here: ![Day4](https://github.com/Nideshkanna/week1-rtl-design-flow/tree/main/Day4)
+👉 All Day 4 examples and labs will be here: ![Day4](https://github.com/Techwithram/Week-1-of-RISC-V-SoC-Program/tree/main/Day4)
 ---
