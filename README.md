@@ -20,9 +20,9 @@ In **Week-1**, we focus on the **RTL design flow** — from writing synthesizabl
 Each day is organized into its own folder:
 
 - [Day 1 – Introduction to Verilog RTL design and Synthesis](Day1/Readme.md)  
-- [Day 2 – .lib Files, Hierarchical vs Flat Synthesis and Flop coding styles](Day2/Readme.md)  
-- [Day 3 – Optimization in Combinational & Sequential Logic](Day_3/README.md)  
-- [Day 4 – Gate-Level Simulation & Coding Styles](Day_4/README.md)  
+- [Day 2 – .lib Files, Hierarchical vs Flat Synthesis and Flop coding styles](day2/Readme.md)  
+- [Day 3 – Optimization in Combinational & Sequential Logic](Day3/README.md)  
+- [Day 4 – Gate-Level Simulation & Coding Styles](Day4/README.md)  
 - [Day 5 – Constraint-Driven Synthesis & Final Wrap-Up](Day_5/README.md)  
 
 Each **day folder** contains:
